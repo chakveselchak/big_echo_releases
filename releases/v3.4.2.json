@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "version": "3.4.2",
+  "tag": "v3.4.2",
+  "sourceCommit": "f1a9ed228bb0d52a9744dd3485be9e10076b0560",
+  "publishedAt": "2026-08-24T13:27:12Z",
+  "releaseUrl": "https://github.com/chakveselchak/big_echo_releases/releases/tag/v3.4.2",
+  "artifacts": [
+    {
+      "platform": "macos",
+      "arch": "arm64",
+      "format": "dmg",
+      "name": "BigEcho-3.4.2-macos-arm64.dmg",
+      "url": "https://github.com/chakveselchak/big_echo_releases/releases/download/v3.4.2/BigEcho-3.4.2-macos-arm64.dmg",
+      "sha256": "07ca7fdf9c72f69ab53222e4747ddb001543dfb3645d78c3a1bfdfc057793ee6"
+    }
+  ]
+}
