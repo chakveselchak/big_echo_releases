@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "version": "3.7.2",
+  "tag": "v3.7.2",
+  "sourceCommit": "58352b9896fd244ac0bea60884c4b04dd5331a8f",
+  "publishedAt": "2026-10-04T18:20:33Z",
+  "releaseUrl": "https://github.com/chakveselchak/big_echo_releases/releases/tag/v3.7.2",
+  "artifacts": [
+    {
+      "platform": "macos",
+      "arch": "arm64",
+      "format": "dmg",
+      "name": "BigEcho-3.7.2-macos-arm64.dmg",
+      "url": "https://github.com/chakveselchak/big_echo_releases/releases/download/v3.7.2/BigEcho-3.7.2-macos-arm64.dmg",
+      "sha256": "a32f58ad9e74126655bfbc832770eb1ab4173c8b96c6582ce7a825545a224cc4"
+    },
+    {
+      "platform": "windows",
+      "arch": "x64",
+      "format": "exe",
+      "name": "BigEcho-3.7.2-windows-x64.exe",
+      "url": "https://github.com/chakveselchak/big_echo_releases/releases/download/v3.7.2/BigEcho-3.7.2-windows-x64.exe",
+      "sha256": "6b06fdb04eeba413bd6e62b5bb650074f075adb2c4ae7877f296b9ed6cfbc9ac"
+    }
+  ]
+}
