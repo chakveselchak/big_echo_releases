@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "version": "4.0.4",
+  "tag": "v4.0.4",
+  "sourceCommit": "e6eeadb5353eb6e91e61e7d38ab91774532db853",
+  "publishedAt": "2026-11-12T05:48:27Z",
+  "releaseUrl": "https://github.com/chakveselchak/big_echo_releases/releases/tag/v4.0.4",
+  "artifacts": [
+    {
+      "platform": "macos",
+      "arch": "arm64",
+      "format": "dmg",
+      "name": "BigEcho-4.0.4-macos-arm64.dmg",
+      "url": "https://github.com/chakveselchak/big_echo_releases/releases/download/v4.0.4/BigEcho-4.0.4-macos-arm64.dmg",
+      "sha256": "e4955362a04b329265d3d7368347acabcb32676c5744289953babd53f83537a0"
+    },
+    {
+      "platform": "windows",
+      "arch": "x64",
+      "format": "exe",
+      "name": "BigEcho-4.0.4-windows-x64.exe",
+      "url": "https://github.com/chakveselchak/big_echo_releases/releases/download/v4.0.4/BigEcho-4.0.4-windows-x64.exe",
+      "sha256": "ad748b75ee1ef60400b0f97b628435e56b9883f7f2a9ccc7c15f745654a89887"
+    }
+  ]
+}
